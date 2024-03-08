@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/colorful-square/static/css/main.a15be9be.css",
+    "main.js": "/colorful-square/static/js/main.ecccc2de.js",
+    "static/js/787.007ae5b4.chunk.js": "/colorful-square/static/js/787.007ae5b4.chunk.js",
+    "index.html": "/colorful-square/index.html",
+    "main.a15be9be.css.map": "/colorful-square/static/css/main.a15be9be.css.map",
+    "main.ecccc2de.js.map": "/colorful-square/static/js/main.ecccc2de.js.map",
+    "787.007ae5b4.chunk.js.map": "/colorful-square/static/js/787.007ae5b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a15be9be.css",
+    "static/js/main.ecccc2de.js"
+  ]
+}
