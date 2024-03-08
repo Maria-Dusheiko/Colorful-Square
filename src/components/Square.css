@@ -1,0 +1,8 @@
+.square {
+  width: 20px;
+  height: 20px;
+  margin: 0;
+  /* background-color: white; */
+  background-color:  rgb(18,18,18);
+  border-radius: 40%;
+}
